@@ -1,0 +1,3 @@
+Notes
+The user PIN is hardcoded as "1234" for demonstration purposes. In a real-world application, you would implement a more secure authentication method.
+The balance and transactions are not persistent across sessions.
